@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 20 01:00:06 2023
 
-@author: linhnguyen
-"""
 import pandas as pd
 df = pd.read_csv('~/Downloads/steam.csv')
 
