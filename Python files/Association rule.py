@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 17 18:22:41 2023
-
-@author: Riddhi Umap
-"""
 
 import pandas as pd
 from mlxtend.frequent_patterns import apriori
