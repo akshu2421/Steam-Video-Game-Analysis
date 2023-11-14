@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 18 16:43:02 2023
-
-@author: linhnguyen
-"""
 
 import pandas as pd
 from sklearn.cluster import KMeans
